@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+        After file_upload_successfully
+    </title>
+    </head>
+    <body>
+        <h1>NAME:{{name}}</h1>
+        <h1>MOBILE_NUM:{{num}}</h1>
+        <h1>EMAIL_ID:{{email}}</h1>
+        <h1>
+            FILE UPLOADED SUCCESSFULLY
+        </h1>
+    
+        <a href="{{url_for('csv_download')}}">Download csv file</a>
+        <br>
+        <a href="{{url_for('xlsx_download')}}">Download xlsx file</a>
+
+    </body>
+</html>

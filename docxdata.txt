@@ -1,0 +1,151 @@
+kavipriya 
+
+Thiyagarajan
+
+4/39, Thottipatti, Namakkal  
+
+7708159267  
+
+kavipriyairtt17@gmail.com  
+
+https:/www.linkedin.com/in/kavipriya-thiyagarajan  
+
+  
+
+
+
+Objective
+
+To obtain a demanding and challenging career that will lay a path to exploit my potential and further enhance my knowledge and skills. 
+
+
+
+Education
+
+B.E Computer Science | Institute of Road Transport Technology, Erode
+
+2017 – 2021
+
+CGPA 7.5 (Up to 5th Sem)
+
+XII | Little Angels Hr.Sec.School
+
+2016-2017
+
+Marks 91.6%
+
+
+
+XII | Little Angels Hr.Sec.School
+
+2014-2015
+
+Marks 96.6%
+
+
+
+
+
+EXPERIENCE
+
+Deep Learning Intern | Internship
+
+mAY’ 2020 – JUL’ 2020
+
+Learned about Transformers, Attention Models and Recurrent Neural Networks 
+
+Studied and Evaluated Fairseq Pre-Trained Transformer Models 
+
+Fairseq : A Sequence Modeling Toolkit 
+
+Curated and Developed working Model For Language Translation from Chinese to      English Using Fairseq
+
+
+
+PROJECTS
+
+Anticipating the likelihood of news virality | Academic
+
+Link:https://github.com/Kavipriya01/Anticipating-likelihood-of-news-virality
+
+Apr’ 2020 – apr’ 2020
+
+Created a program to predict the virality of the news by correlating it with yardstick viral news
+
+News scrapped from various news and information websites using Newspaper package in python
+
+Learned about LDA for Topic modeling
+
+The virality of the news can be forecasted using the LDA model
+
+
+
+RESUME READER | Academic
+
+Link: https://github.com/Kavipriya01/Resume_Reader
+
+mar’ 2020 – apr’ 2020
+
+Conceptualized a web application for extracting required data from an uploaded user documents using NLTK in this case resume.
+
+Designed data extraction process using Natural Language Processing	
+
+EXAM REGISTRATION | Academic
+
+Link: https://github.com/Kavipriya01/Exam_Registration 
+
+AUG’ 2019 – SEP’ 2019
+
+Formulated the plan of action to finish the project within the constraint time limit through delegation of work among team members
+
+Constructed an exam registration website using FLASK in PYTHON to collect various student details 
+
+Developed a module to validate student details
+
+Studied and Applied different OOPS concepts through the project
+
+Communicated with teachers and peers regularly to evaluate work at every stage
+
+SECURITY SURVEILLANCE | Academic
+
+Link: https://github.com/Kavipriya01/Security_Surveillance
+
+juN’ 2019 – JUN’ 2019
+
+Developed security surveillance system through the camera using OpenCV and YOLOV3 neural network
+
+Learned Convolution Neural Networks 
+
+The system cautioned the users on the entry of unauthorized persons through the object-detection  process
+
+
+
+
+
+Skills & Strengths
+
+Machine Learning algorithms
+
+Deep Learning
+
+Data Analytics
+
+SQL
+
+Python
+
+Web Scraping
+
+Hard-working
+
+Teamwork
+
+Self-learner
+
+Leadership
+
+
+
+
+
+2

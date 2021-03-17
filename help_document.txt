@@ -1,0 +1,13 @@
+
+PROJECT NAME:Resume Reader
+
+DESCRIPTION:The user can upload his/her resume in a website with some limited formats(pdf/docx). 
+	        Then the extracted required information from the resume can be download with limited formats(xlsx/csv)by the user.
+
+TOOLS USED:Python,Flask,HTML,CSS,pdftotext,docx2txt,numpy,pandas,nltk,re
+
+For more info mailto:kavipriyairtt17@gmail.com
+
+		
+
+

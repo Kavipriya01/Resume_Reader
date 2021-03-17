@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        file_uploading
+    </title>
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='file_upload_css.css')}}">
+</head>
+<body>
+<div class="content">    
+    
+    <form method="POST" action="{{url_for('file_upload')}}"  enctype="multipart/form-data">
+        <label for="file">UPLOAD YOUR RESUME</label>
+        <input type="file" name="file" value="select"> 
+        <input type="submit" value="UPLOAD" name="upload_btn">
+    </form>
+</div>    
+</body>
+</html>
